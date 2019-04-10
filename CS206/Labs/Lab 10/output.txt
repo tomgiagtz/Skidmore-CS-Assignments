@@ -1,0 +1,58 @@
+calling pqInt method...
+Lowest 20 items in file: 
+35
+294
+300
+430
+491
+786
+899
+933
+936
+985
+991
+1064
+1337
+1420
+1570
+1709
+1723
+1781
+1827
+1838
+
+calling pqNameMin method...
+Lowest 15 items in file: 
+ Zeph 1
+ Abra 1
+ Devin 2
+ Rylee 3
+ Bo 3
+ Brian 4
+ Chester 5
+ Ariana 5
+ Scott 5
+ Galvin 6
+ Blaze 6
+ Ryder 7
+ Trevor 8
+ Dante 8
+ Shea 9
+
+calling pqNameMax method...
+Highest 15 items in file: 
+ Jillian 100
+ Deacon 100
+ Kelly 100
+ Ferris 100
+ Noble 98
+ Allen 98
+ Bryar 98
+ Lucius 97
+ Demetria 97
+ Audra 96
+ Walter 96
+ Scarlett 96
+ Chadwick 95
+ Guy 94
+ Lev 94

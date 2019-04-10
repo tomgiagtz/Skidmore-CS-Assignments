@@ -1,0 +1,10 @@
+994 0 0 0 0 0 0 0 0 0 0 0 0 Wilmington DE 75526 113-7834 Nam Av. 
+554 1 1 1 1 1 1 1 1 1 1 1 1 NewportNews  VA 43052 Ap #142-9347 Urna Av. 
+683 2 2 2 2 2 2 2 2 2 2 2 2 Nampa ID 94910 "P.O. Box 564, 631 A Avenue" 
+792 3 3 3 3 3 3 3 3 3 3 3 3 Chattanooga TN 46033 3614 Aliquet Ave 
+213 4 4 4 4 4 4 4 4 4 4 4 4 GrandIsland  NE 91570 "P.O. Box 244, 9563 Semper Rd." 
+151 5 5 5 5 5 5 5 5 5 5 5 5 PikCreek  DE 66198 5323 Nec Av. 
+584 6 6 6 6 6 6 6 6 6 6 6 6 Wyoming WY 73603 Ap #183-6537 Commodo St. 
+580 7 7 7 7 7 7 7 7 7 7 7 7 Allentown PA 21012 Ap #986-128 Sociis Av. 
+809 8 8 8 8 8 8 8 8 8 8 8 8 CarsonCity  NV 46921 677-6505 Suspendisse St. 
+658 9 9 9 9 9 9 9 9 9 9 9 9 Olympia WA 19467 "P.O. Box 153, 8192 Risus, Street" 
